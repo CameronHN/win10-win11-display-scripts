@@ -17,7 +17,7 @@ Understand the following before running a script:
 * You need to go to your settings and identify your displays
 * Each display will be identified with a number. Take note of these numbers.
 
-![GIF on how to identify displays](assets\videos\IdentifyDisplays.gif)
+![GIF on how to identify displays](assets/videos/IdentifyDisplays.gif)
 
 ### Installation
 
@@ -25,7 +25,7 @@ To execute a script, simply double click on the file
 
 ## Usage
 
-![GIF selecting display type](assets\videos\SelectDisplayType.gif)
+![GIF selecting display type](assets/videos/SelectDisplayType.gif)
 
 1. InternalDisplay.bat
    - Display only on display 1
