@@ -30,7 +30,7 @@ To execute a script, simply double click on the file
 1. InternalDisplay.bat
    - Display only on display 1
    - Performs 'Show only on 1'
-2. ExternalMonitor.bat
+2. ExternalDisplay.bat
    - Display only on display 2
    - Performs 'Show only on 2'
 3. DuplicateDisplays.bat
