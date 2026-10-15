@@ -28,6 +28,23 @@ To execute a script, simply double click on the file.
 
 ![GIF selecting display type](assets/videos/SelectDisplayType.gif)
 
+### Menu script
+
+Not sure which script you need? Double click `DisplayMenu.bat` and press a single key (no Enter required):
+
+| Key | Action |
+|-----|--------|
+| `e` | Extend the displays |
+| `d` | Duplicate the displays |
+| `1` | Show only on display 1 |
+| `2` | Show only on display 2 |
+
+Any other key is ignored and the menu keeps waiting for a valid one. The script exits as soon as a mode is applied.
+
+### Individual scripts
+
+If you want a direct one-action shortcut, use one of the individual scripts:
+
 1. InternalDisplay.bat
    - Display only on display 1
    - Performs 'Show only on 1'
