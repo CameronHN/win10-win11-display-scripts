@@ -1,4 +1,4 @@
-# Windows 10/11 Display setting scripts
+# Windows Display Switcher
 
 A set of Windows batch file scripts that will change your display settings.
 
@@ -8,7 +8,7 @@ These scripts are intended for dual display setups and will only work on Windows
 
 ## Purpose
 
-These are individual scripts that will change your display settings without you having to go to your settings to change them.
+These scripts change your display settings without you having to go to your settings to change them. Use the single menu script (`DisplayMenu.bat`) to pick a mode with one keypress, or use one of the individual scripts for a direct one-action shortcut.
 
 ### Prerequisites
 
