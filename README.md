@@ -18,7 +18,7 @@ Understand the following before running a script:
 * Head to your settings and identify your displays.
 * Each display will be identified with a number. Take note of these numbers.
 
-![GIF on how to identify displays](assets/videos/IdentifyDisplays.gif)
+![GIF on how to identify displays](assets/videos/Untitledvideo3-ezgif.com-video-to-gif-converter.gif)
 
 ### Installation
 
